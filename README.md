@@ -2,7 +2,7 @@
 Permit to export and import contents of Camaleon CMS Application.
 ## Installation
 * Download Plugin
-* Uncompress plugin into apps/plugins/export_content
+* Uncompress plugin into app/apps/plugins/export_content
 * Restart Server
 * Activate Plugin in Admin -> plugins -> inactive plugins -> Import/Export Plugin
 * Below Plugin Title, click "Import / Export" link
